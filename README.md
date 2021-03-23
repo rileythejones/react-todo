@@ -1,3 +1,7 @@
+# Project Setup
+- npm install @blueprintjs/core @blueprintjs/docs-theme typescript react react-dom
+- npm start
+
 # Not another TODO APP
 
 ## Introduction
